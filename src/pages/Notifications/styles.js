@@ -7,7 +7,8 @@ export const Container = styled.View`
 
 export const Text = styled.Text`
   color: #000;
-  font-size: 20px;
+  font-size: 18px;
+  font-weight: bold;
 `;
 
 export const Content = styled.View`
